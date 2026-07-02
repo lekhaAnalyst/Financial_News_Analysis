@@ -19,5 +19,8 @@ This project analyzes financial news data and creates an interactive dashboard.
 ## Dashboard preview
 ![Dashboard](dashboard.png)
 
+## Dashboard Demo
+Download and watch: Financial_Analysis_Dashboard.mp4
+
 ## Dataset
 Financial news dataset used for analysis.
