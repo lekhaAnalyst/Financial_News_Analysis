@@ -17,10 +17,10 @@ This project analyzes financial news data and creates an interactive dashboard.
 - Dashboard Creation using Power BI
 
 ## Dashboard preview
-![Dashboard](dashboard.png)
+Dashboard.png
 
 ## Dashboard Demo
-Download and watch: Financial_Analysis_Dashboard.mp4
+Financial_Analysis_Dashboard.mp4
 
 ## Dataset
 Financial news dataset used for analysis.
